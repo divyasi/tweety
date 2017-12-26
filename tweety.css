@@ -1,0 +1,68 @@
+.heading {
+  font-family: cursive;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: left;
+  font-size: 50px
+  font-family: Italianno;
+  font-family: cursive;
+}
+
+h2 {
+  color: rgb(235, 222, 219);
+  text-align: left;
+  font-family: Italianno;
+  font-family: cursive;
+  font-size: 30px
+}
+
+a {
+  color: #cccccc;
+
+}
+
+h3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: serif;
+  font-size: 25px;
+  font-family: Italianno;
+  font-family: cursive;
+}
+
+hr {
+  border-width: medium;
+  border-color: lightgrey;
+  margin-bottom: 3px;
+}
+
+a {
+  font-style: italic;
+}
+
+p {
+  margin-top: 60px margin-bottom: 60px;
+  color: #ffffff;
+  text-align: left;
+  font-size: 50px
+  font-family: Tenor Sans;
+  font-family:  sans-serif;
+}
+
+body {
+  background-color: #242424;
+}
+
+/*.beautiful-background {
+    background-image: url('./tweety_family.jpg');
+}*/
+
+/*.header{
+  background-color: purple;
+  height: 10px;
+  position: fixed;
+  width: 100%;
+  opacity: 0.3;
+}*/
